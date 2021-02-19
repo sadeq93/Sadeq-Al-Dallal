@@ -12,5 +12,5 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="React-Navigation" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Freact-navigation%2Freact-navigation&psig=AOvVaw0V2_sJk5sj9UzpWOgXqJmv&ust=1613841191639000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIir0oq59u4CFQAAAAAdAAAAABAD" />
+<img align="left" alt="React-Navigation" width="26px" src="https://avatars.githubusercontent.com/u/29647600?s=400&v=4" />
 
