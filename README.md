@@ -14,11 +14,11 @@
 <a href="https://reactjs.org/" target="_blank">
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
 
-<a href="https://reactnavigation.org/" target="_blank">
-<img align="left" alt="React-Navigation" width="26px" src="https://avatars.githubusercontent.com/u/29647600?s=400&v=4" /></a>
-
 <a href="https://redux.js.org/" target="_blank">
-<img align="left" alt="Redux width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GzO_eLwJuhgFQoOiS99p5L1ZOj7hdh002A&usqp=CAU" /></a>
+<img align="left" alt="Redux" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GzO_eLwJuhgFQoOiS99p5L1ZOj7hdh002A&usqp=CAU" /></a>
+
+<a href="https://reactnavigation.org/" target="_blank">
+<img align="left" alt="React-Native" width="26px" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" /></a>
 
 <a href="https://reactnavigation.org/" target="_blank">
 <img align="left" alt="React-Navigation" width="26px" src="https://avatars.githubusercontent.com/u/29647600?s=400&v=4" /></a>
