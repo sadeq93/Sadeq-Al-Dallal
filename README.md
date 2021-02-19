@@ -1,2 +1,3 @@
-## Hi there :wave: I'm Sadeq Al-Dallal, I'm a Husband :couple:,Father :family: and Developer:computer:.
+## Hi there :wave: I'm Sadeq Al-Dallal
+##### A Husband :couple:,Father :family: and Developer:computer:.
 
